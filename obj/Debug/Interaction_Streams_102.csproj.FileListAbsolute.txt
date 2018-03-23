@@ -1,0 +1,9 @@
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Tobii.EyeX.Client.dll
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Interaction_Streams_102.exe.config
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Interaction_Streams_102.exe
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Interaction_Streams_102.pdb
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Tobii.Interaction.Model.dll
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\bin\Debug\Tobii.Interaction.Net.dll
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\obj\Debug\Interaction_Streams_102.exe
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\obj\Debug\Interaction_Streams_102.pdb
+F:\eyeTracker\CoreSDK\samples\Streams\Interaction_Streams_102\obj\Debug\Interaction_Streams_102.csprojResolveAssemblyReference.cache
